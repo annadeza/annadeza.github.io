@@ -14,7 +14,7 @@ We revisit fair regression from a mixed integer optimization perspective. We pre
 A. Deza, A. Gómez, A. Atamtürk. *Under Preparation*.
 
 We uncover a new relationship between sparse learning and chordal graphs, and develop a fast clique generation method to improve the
-performance of optimization algorithms for $$\ell_0$$-regularized and $$\ell_0$-constrained models.
+performance of optimization algorithms for $$\ell_0$$-regularized and $$\ell_0$$-constrained models.
 
 # Simulating Polyculture Farming to Learn Automation Policies for Plant Diversity and Precision Irrigation
 Y. Avigal, W. Wong, M. Presten, M. Theis, S. Aeron, A. Deza, S. Sharma, R. Parikh, S. Oehme, S. Carpin, J. Viers, S. Vougioukas, K. Goldberg. *IEEE T-ASE*, 2022.
