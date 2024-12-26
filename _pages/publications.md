@@ -5,16 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
-# Mixed Integer Optimization Formulation for Fair Regression
-A. Deza, A. Gómez, A. Atamtürk. *Under Preparation*.
+# Fair and Accurate Regression: Strong Formulations and Algorithms
+A. Deza, A. Gómez, A. Atamtürk. *Submitted*. [pdf](https://arxiv.org/pdf/2412.17116), [slides](/files/fair_regression_slides.pdf)
 
 We revisit fair regression from a mixed integer optimization perspective. We present an algorithm to build fair models based on strong convex relaxations of the fair regression problem, and show competitive numerical results on real datasets.
 
 # Logic Rules and Chordal Graphs for Sparse Learning
-A. Deza, A. Gómez, A. Atamtürk. *Under Preparation*.
+A. Deza, A. Gómez, A. Atamtürk. *To be Submitted*. [slides](/files/logic_rules_slides.pdf)
 
 We uncover a new relationship between sparse learning and chordal graphs, and develop a fast clique generation method to improve the
 performance of optimization algorithms for $$\ell_0$$-regularized and $$\ell_0$$-constrained models.
+
+# Safe Screening for Logistic Regression with l0-l2 Regularization
+A. Deza, A. Atamtürk. *KDIR*. [pdf](https://www.scitepress.org/Papers/2022/115781/115781.pdf)
+
+We propose safe screening rules based on lower bounds from the Fenchel dual of strong conic relaxations of the sparse logistic regression problem.
 
 # Simulating Polyculture Farming to Learn Automation Policies for Plant Diversity and Precision Irrigation
 Y. Avigal, W. Wong, M. Presten, M. Theis, S. Aeron, A. Deza, S. Sharma, R. Parikh, S. Oehme, S. Carpin, J. Viers, S. Vougioukas, K. Goldberg. *IEEE T-ASE*, 2022.
