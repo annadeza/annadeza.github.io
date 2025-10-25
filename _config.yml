@@ -24,11 +24,11 @@ author:
   avatar           : "informs.png"
   name             : "Anna Deza"
   pronouns         : # example: "she/her"  
-  bio              : "Fifth-year IEOR PhD at UC Berkeley"
-  location         : "Berkeley, CA"
+  bio              : "Postdoc @ GATech ISye"
+  location         : "Atlanta, GA"
   employer         :
   uri              : # URL
-  email            : "annadeza@berkeley.edu"
+  email            : "adeza6@gatech.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

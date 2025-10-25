@@ -4,7 +4,10 @@ title: "Academic Presentations"
 permalink: /talks/
 author_profile: true
 ---
-
+- 10/25: INFORMS Annual Meeting, Atlanta
+- 07/25: ICCOPT, Los Angeles
+- 06/25: Mixed Integer Programming Poster Competition,Minneapolis 
+- 02/25: EURO Online Seminar Series on Operational Research and Machine Learning, Virtual
 - 12/24: Optimization Workshop Poster Competition, Bogotá
 - 10/24: INFORMS Annual Meeting, Seattle
 - 07/24: International Symposium on Mathematical Programming, Montréal
