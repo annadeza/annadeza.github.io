@@ -7,7 +7,7 @@ author_profile: true
 # Two-Phase Framework for Nonlinear Mixed Integer Programs with Indicators
 A. Deza, A. Gómez, A. Atamtürk. *Under Preparation*.
 
-# Sum-of-Squares Submodularity
+# Sum of Squares Submodularity
 A. Deza, G. Hall. *Submitted*. [pdf](https://arxiv.org/pdf/2510.24550)
 
 # Fair and Accurate Regression: Strong Formulations and Algorithms
