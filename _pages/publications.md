@@ -8,7 +8,7 @@ author_profile: true
 A. Deza, A. Gómez, A. Atamtürk. *Under Preparation*.
 
 # Sum-of-Squares Submodularity
-A. Deza, G. Hall. *Submitted*.
+A. Deza, G. Hall. *Submitted*. [pdf](https://arxiv.org/pdf/2510.24550)
 
 # Fair and Accurate Regression: Strong Formulations and Algorithms
 A. Deza, A. Gómez, A. Atamtürk. *Submitted*. [pdf](https://arxiv.org/pdf/2412.17116), [slides](/files/fair_regression_slides.pdf)
